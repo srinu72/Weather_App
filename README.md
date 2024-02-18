@@ -1,3 +1,4 @@
+![Screenshot 2024-02-19 000905](https://github.com/srinu72/Weather_App/assets/124178201/ed7b5560-0d57-4e71-8659-84dd9438cee8)
 ![Uploading Screenshot 2024-02-19 000905.png…]()
 # Weather_App
 Welcome to our Weather App, where simplicity meets functionality to deliver you the latest weather updates with ease and elegance.
