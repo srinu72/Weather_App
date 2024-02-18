@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="design.css">
+    <title>Weather Application</title>
+</head>
+<body> <header> 
+    <span class="span">
+        <img alt='weather' style='width: 100px; height: 100px; border-radius: 50%; padding-left:4%; margin-top:2%;' src='./Images/OIP (1).jpg'class='img' />
+        <h2 style="font-size: 120%;">Weather App using PHP </h2> <br>
+       </span> 
+</header>
+  
+
+   <section class="frm">
+   <form action="weather.php" method="post">
+            <label for="city">Enter City:</label>
+            <input type="text" id="city" name="city" required><br>
+            <button type="submit">Get Weather</button>
+        </form>
+        <div class="weather-info">
+        </div>
+   </section>
+</body>
+</html>
